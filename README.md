@@ -30,7 +30,7 @@ C. Access the Demo
 ------------------
 
 1. Start the browser with security features disabled - e.g. "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-webusb-security
-2. Plug the device into your PC/Mac and open the browser to https://drffej.github.io/webusb.arduino/
+2. Plug the device into your PC/Mac and open the browser to https://drffej.github.io/webusb.printer/printer.html
 3. Click on 'Connect' to pair the device
 4. Click on Toggle to turn on/off the Led
 
@@ -41,4 +41,4 @@ $ python -m http.server
 
 or any other webserver and this does not need the security features disabling!
 
-JP 24/08/2017
+JP 29/08/2017
