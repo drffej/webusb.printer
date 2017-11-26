@@ -7,7 +7,7 @@ This repository is an example implementation of WebUSB communicating with Therma
 The demo shows:
 
 1. Pairing and connecting to Thermal Printer from Chrome
-2. Sending prunter text to  the device from Chrome
+2. Sending printer text to  the device from Chrome
 3. Reconnecting on Browser refresh (if paired)
 
 This works on Windows 10 hardware and on a Mac.
