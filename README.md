@@ -29,10 +29,9 @@ You may also want to check out  chrome://device-log where you can see all USB de
 C. Access the Demo
 ------------------
 
-1. Start the browser with security features disabled - e.g. "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-webusb-security
-2. Plug the device into your PC/Mac and open the browser to https://drffej.github.io/webusb.printer/printer.html
-3. Click on 'Connect' to pair the device
-4. Click on Toggle to turn on/off the Led
+1. Plug the device into your PC/Mac and open the browser to https://drffej.github.io/webusb.printer/printer.html
+2. Click on 'Connect' to pair the device
+3. Click on Toggle to turn on/off the Led
 
 
 Alternately you can run this locally via
@@ -41,4 +40,4 @@ $ python -m http.server
 
 or any other webserver and this does not need the security features disabling!
 
-JP 29/08/2017
+JP 26/11/2017
