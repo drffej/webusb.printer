@@ -22,7 +22,7 @@
 
 	function connectAndPrint() {
 		if (device == null) {
-			navigator.usb.requestDevice({ filters: [{ vendorId: 1046 }] })
+			navigator.usb.requestDevice({ filters: [{ vendorId: 4611 }] })
 			.then(selectedDevice => {
 				device = selectedDevice;
 				console.log(device);
